@@ -1,3 +1,2 @@
 # hello-world
-This is demo project.
-New line
+This is demo project. This is new text
